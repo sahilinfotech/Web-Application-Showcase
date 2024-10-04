@@ -446,6 +446,13 @@ Welcome to my collection of interactive web applications! Below you'll find a li
 
 To explore these applications, simply click on the links above. Feel free to provide feedback or contribute to the projects!
 
+## Contact
+Feel free to reach out to us for collaborations or inquiries:
+- Email: [sahilinfotech@yahoo.com]
+- LinkedIn: [https://www.linkedin.com/company/sahil-infotech/]
+- Instagram: [https://www.instagram.com/sahil_infotech/]
+- Facebook: [https://www.facebook.com/sahilinfotech06]
+
 ## License
 
 This project is open source and available under the MIT License.
