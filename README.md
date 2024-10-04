@@ -346,6 +346,102 @@ Welcome to my collection of interactive web applications! Below you'll find a li
 114. **[Wavy Hover Buttons](https://sahilinfotech.github.io/Wavy-Hover-Buttons/)**
     - Buttons that create a wavy effect on hover.
 
+115. **[Age Calculator](https://sahilinfotech.github.io/AgeCalculator/)**  
+   A simple tool to calculate your age based on your date of birth.
+
+116. **[Analog Watch](https://sahilinfotech.github.io/AnalogWatch/)**  
+   A digital representation of an analog clock.
+
+117. **[Battery Indicator](https://sahilinfotech.github.io/BatteryIndicator/)**  
+   Displays the current battery status of your device.
+
+118. **[Blurring Image](https://sahilinfotech.github.io/BluringImage/)**  
+   A tool to blur images dynamically.
+
+119. **[BMI Calculator](https://sahilinfotech.github.io/BMICalculator/)**  
+   Calculate your Body Mass Index (BMI) easily.
+
+120. **[Calculator](https://sahilinfotech.github.io/Calculator/)**  
+   A simple calculator for basic arithmetic operations.
+
+121. **[Choice Picker](https://sahilinfotech.github.io/ChoicePicker/)**  
+   Randomly selects an option from a given list.
+
+122. **[Countdown Timer](https://sahilinfotech.github.io/CountdownTimer/)**  
+   A timer that counts down to zero.
+
+123. **[Day Predictor](https://sahilinfotech.github.io/DayPredictor/)**  
+   Predicts the day of the week for a given date.
+
+124. **[Dinosaur Game](https://sahilinfotech.github.io/DinosaurGame/)**  
+    A fun, browser-based dinosaur jumping game.
+
+125. **[Event Code](https://sahilinfotech.github.io/EventCode/)**  
+    Manage and display event codes.
+
+126. **[Expands Cards](https://sahilinfotech.github.io/ExpandsCards/)**  
+    Interactive cards that expand to show more content.
+
+127. **[FAQ Application](https://sahilinfotech.github.io/FAQApplication/)**  
+    A simple FAQ section that reveals answers upon clicking.
+
+128. **[Form Wave Animation](https://sahilinfotech.github.io/FormWaveAnimation/)**  
+    Animated form that enhances user experience.
+
+129. **[GitHub Profile Finder](https://sahilinfotech.github.io/GithubProfileFinder/)**  
+    Find GitHub profiles easily using this tool.
+
+130. **[Gradient Background Generator](https://sahilinfotech.github.io/GradientBackgroundGenerator/)**  
+    Create beautiful gradient backgrounds.
+
+131. **[Hidden Search](https://sahilinfotech.github.io/HiddenSearch/)**  
+    A search bar that expands when focused.
+
+132. **[Image Filter](https://sahilinfotech.github.io/ImageFilter/)**  
+    Apply filters to images interactively.
+
+133. **[Jump Game](https://sahilinfotech.github.io/JumpGame/)**  
+    A fun jumping game with various levels.
+
+134. **[Memory Card](https://sahilinfotech.github.io/MemoryCard/)**  
+    A memory card matching game.
+
+135. **[Password Generator](https://sahilinfotech.github.io/PasswordGenerator/)**  
+    Generate secure passwords.
+
+136. **[Progress Steps](https://sahilinfotech.github.io/ProgressSteps/)**  
+    Visual representation of progress steps.
+
+137. **[Random Color Generator](https://sahilinfotech.github.io/RandomColorGenerator/)**  
+    Generate random colors for your designs.
+
+138. **[Rock Paper Scissors](https://sahilinfotech.github.io/RockPapperScissor/)**  
+    Play the classic game against the computer.
+
+139. **[Rotating Navigation](https://sahilinfotech.github.io/RotatingNavigation/)**  
+    A unique navigation menu with a rotating effect.
+
+140. **[Scroll Animation](https://sahilinfotech.github.io/ScrollAnimation/)**  
+    Animate elements on scroll.
+
+141. **[Split Landing Page](https://sahilinfotech.github.io/SplitLanding-Page/)**  
+    A visually appealing split landing page layout.
+
+142. **[Stopwatch](https://sahilinfotech.github.io/StopWatch/)**  
+    A simple stopwatch application.
+
+143. **[To-Do List](https://sahilinfotech.github.io/To-Do-List/)**  
+    Manage your tasks efficiently with this to-do list app.
+
+144. **[Weather App](https://sahilinfotech.github.io/WeatherApp/)**  
+    Get current weather information for your location.
+
+145. **[Weight Converter](https://sahilinfotech.github.io/WeightConverter/)**  
+    Convert weights between different units.
+
+146. **[Word Counter](https://sahilinfotech.github.io/WordCounter/)**  
+    Count the number of words and characters in a text.
+
 ## Getting Started
 
 To explore these applications, simply click on the links above. Feel free to provide feedback or contribute to the projects!
