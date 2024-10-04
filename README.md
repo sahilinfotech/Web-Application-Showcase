@@ -352,4 +352,4 @@ To explore these applications, simply click on the links above. Feel free to pro
 
 ## License
 
-This project is open source and available under
+This project is open source and available under the MIT License.
