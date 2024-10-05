@@ -2,6 +2,14 @@
 
 Welcome to my collection of interactive web applications! Below you'll find a list of projects I've developed, complete with links to each application.
 
+## Technologies Used
+
+- **HTML5**: For structuring the web applications.
+- **CSS3**: For styling and creating animations, including 3D effects.
+- **JavaScript**: For interactive elements and enhancing user experience.
+- **CSS Transitions and Transforms**: To create smooth hover effects and 3D animations.
+- **Responsive Design**: Ensuring applications work well on various devices.
+
 ## Applications
 
 1. **[3D Card With Hover](https://sahilinfotech.github.io/3d-Card-With-Hover/)**
