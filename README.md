@@ -449,6 +449,188 @@ Welcome to my collection of interactive web applications! Below you'll find a li
 
 146. **[Word Counter](https://sahilinfotech.github.io/WordCounter/)**  
     Count the number of words and characters in a text.
+147. **[Age Calculator](https://sahilinfotech.github.io/age-calculator/)**  
+   A simple tool to calculate age based on the user's birth date.
+
+148. **[Amine Pics Generator](https://sahilinfotech.github.io/amine-pics-generator/)**  
+   Generate random anime character images.
+
+149. **[Animated Search Bar](https://sahilinfotech.github.io/animated-search-bar/)**  
+   A search bar with smooth animation effects.
+
+150. **[Auto Text Effect Animation](https://sahilinfotech.github.io/auto-text-effect-animation/)**  
+   An animation that showcases auto-typing text effects.
+
+151. **[Background Image Scroll Effect](https://sahilinfotech.github.io/background-image-scroll-effect/)**  
+   Creates a parallax effect with background images while scrolling.
+
+152. **[Background Video](https://sahilinfotech.github.io/background-video/)**  
+   A web page featuring a full-screen background video.
+
+153. **[Basic Calculator](https://sahilinfotech.github.io/basic-calculator/)**  
+   A simple calculator for basic arithmetic operations.
+
+154. **[Blurred Background Popup](https://sahilinfotech.github.io/blurred-background-popup/)**  
+   A popup with a blurred background effect.
+
+155. **[BMI Calculator](https://sahilinfotech.github.io/bmi-calculator/)**  
+   A tool to calculate Body Mass Index (BMI).
+
+156. **[Button Ripple Effect](https://sahilinfotech.github.io/button-ripple-effect-1/)**  
+    A button with a ripple effect on click.
+
+157. **[Clock](https://sahilinfotech.github.io/clock/)**  
+    A digital clock displaying the current time.
+
+158. **[Counter](https://sahilinfotech.github.io/counter/)**  
+    A simple counter application to increment or decrement values.
+
+159. **[Currency Converter](https://sahilinfotech.github.io/currency-converter/)**  
+    Convert between different currencies using real-time rates.
+
+160. **[Dad Jokes Generator](https://sahilinfotech.github.io/dad-jokes-generator/)**  
+    Generate random dad jokes to lighten the mood.
+
+161. **[Dark Mode Toggle](https://sahilinfotech.github.io/dark-mode-toggle/)**  
+    A toggle switch to enable dark mode for the website.
+
+162. **[Dice Roll Simulator](https://sahilinfotech.github.io/dice-roll-simulator/)**  
+    Simulates rolling a dice.
+
+163. **[Digital Clock](https://sahilinfotech.github.io/digital-clock/)**  
+    A digital clock displaying the current time in a stylish format.
+
+164. **[Double Landing Page](https://sahilinfotech.github.io/double-landing-page/)**  
+    A two-part landing page with smooth transitions.
+
+165. **[Drum Kits](https://sahilinfotech.github.io/drum-kits/)**  
+    A virtual drum kit that you can play using your keyboard.
+
+166. **[Emoji Rating](https://sahilinfotech.github.io/emoji-rating/)**  
+    A rating system using emojis.
+
+167. **[English Dictionary](https://sahilinfotech.github.io/english-dictionary/)**  
+    An interactive dictionary application.
+
+168. **[Feedback UI](https://sahilinfotech.github.io/feedback-ui/)**  
+    A user interface for submitting feedback.
+
+169. **[Heart Trail Animation](https://sahilinfotech.github.io/heart-trail-animation/)**  
+    An animated heart trail effect.
+
+170. **[Image Search App](https://sahilinfotech.github.io/image-search-app/)**  
+    Search and display images from the web.
+
+171. **[Image Slider](https://sahilinfotech.github.io/image-slider/)**  
+    A carousel slider for images.
+
+172. **[Loading Bar](https://sahilinfotech.github.io/loading-bar/)**  
+    A visual loading indicator for web pages.
+
+173. **[Loan Calculator](https://sahilinfotech.github.io/loan-calculator/)**  
+    Calculate monthly payments for loans.
+
+174. **[Mini Calendar](https://sahilinfotech.github.io/mini-calendar/)**  
+    A compact calendar display.
+
+175. **[Month Calendar](https://sahilinfotech.github.io/month-calender/)**  
+    A full month calendar view.
+
+176. **[Mouse Event](https://sahilinfotech.github.io/mouse-event/)**  
+    A demonstration of mouse events on a webpage.
+
+177. **[Multiplication App](https://sahilinfotech.github.io/multiplication-app/)**  
+    A tool for practicing multiplication.
+
+178. **[Music Player](https://sahilinfotech.github.io/music-player/)**  
+    A simple music player interface.
+
+179. **[Navbar](https://sahilinfotech.github.io/navbar/)**  
+    A responsive navigation bar.
+
+180. **[New Year Countdown](https://sahilinfotech.github.io/new-year-countdown/)**  
+    A countdown timer for the New Year.
+
+181. **[Note App](https://sahilinfotech.github.io/note-app/)**  
+    A simple note-taking application.
+
+182. **[Photo Gallery](https://sahilinfotech.github.io/photo-gallery/)**  
+    A gallery to display images.
+
+183. **[Pomodoro Timer](https://sahilinfotech.github.io/pomodoro-timer/)**  
+    A timer to help manage work sessions and breaks.
+
+184. **[Profile Statistics](https://sahilinfotech.github.io/profile-statistics/)**  
+    Display user statistics in a profile view.
+
+185. **[Q and A Section](https://sahilinfotech.github.io/q-and-a-section/)**  
+    A section for questions and answers.
+
+186. **[Random Color Generator](https://sahilinfotech.github.io/random-color-generator/)**  
+    Generate random colors.
+
+187. **[Random Emoji](https://sahilinfotech.github.io/random-emoji/)**  
+    Generate random emojis.
+
+188. **[Random Password Generator](https://sahilinfotech.github.io/random-password-generator/)**  
+    Generate secure random passwords.
+
+189. **[Random Photos](https://sahilinfotech.github.io/random-photos/)**  
+    Display random images from a collection.
+
+190. **[Random Quote Generator](https://sahilinfotech.github.io/random-quote-generator/)**  
+    Generate random inspirational quotes.
+
+191. **[Real-Time Character Counter](https://sahilinfotech.github.io/real-time-character-counter/)**  
+    Count the characters in real-time as you type.
+
+192. **[Recipe Book App](https://sahilinfotech.github.io/Recipe-Book-App/)**  
+    A web application to manage and display recipes.
+
+193. **[Rock Paper Scissors Game](https://sahilinfotech.github.io/Rock-Paper-Scissors-Game/)**  
+    Play the classic game of Rock, Paper, Scissors against the computer.
+
+194. **[Rotating Image Gallery](https://sahilinfotech.github.io/Rotating-Image-Gallery/)**  
+    A gallery with rotating images.
+
+195. **[Sidebar](https://sahilinfotech.github.io/Sidebar/)**  
+    A responsive sidebar menu.
+
+196. **[Social Media Selector Menu](https://sahilinfotech.github.io/Social-Media-Selector-Menu/)**  
+    A menu for selecting social media platforms.
+
+197. **[Step Progress Bar](https://sahilinfotech.github.io/Step-Progress-Bar/)**  
+    Visual representation of progress through steps.
+
+198. **[Sticky Navbar](https://sahilinfotech.github.io/Sticky-Navbar/)**  
+    A navigation bar that sticks to the top of the page when scrolling.
+
+199. **[Stopwatch](https://sahilinfotech.github.io/Stopwatch-1/)**  
+    A simple stopwatch application.
+
+200. **[Tabs](https://sahilinfotech.github.io/Tabs/)**  
+    A tabbed interface to display content.
+
+201. **[Temperature Converter](https://sahilinfotech.github.io/Temperature-Converter/)**  
+    Convert temperatures between Celsius, Fahrenheit, and Kelvin.
+
+202. **[Testimonial Slider](https://sahilinfotech.github.io/Testimonial-Slider/)**  
+    A slider for displaying testimonials.
+
+203. **[Tip Calculator](https://sahilinfotech.github.io/Tip-Calculator/)**  
+    Calculate tips based on the bill amount.
+
+204. **[To-Do List](https://sahilinfotech.github.io/To-Do-List-1/)**  
+    A simple application for managing to-do tasks.
+
+205. **[Video Trailer Popup](https://sahilinfotech.github.io/Video-Trailer-Popup-/)**  
+    A popup to display video trailers.
+
+206. **[Weather App](https://sahilinfotech.github.io/Weather-App/)**  
+    A web application to check the current weather.
+
+207. **[Weight Converter](https://sahilinfotech.github.io/Weight-Converter/)**  
+    Convert weights between different units.
 
 ## Getting Started
 
